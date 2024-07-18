@@ -1,10 +1,14 @@
 # Project_Fitness Center_ Without Data Base By C# Desktop.
 __________________________________________________________
 
+
+
+
 # Explain how the project works:
 
 * It is a project that uses the C# programming language for a fitness center
 Consists of :
+
 
 # Login interface:
 
@@ -30,3 +34,9 @@ Consists of :
 - the fourth :
      -    When you click on it, it will go to the subscription payment interface
 
+# The subscription payment interface:
+
+- This interface contains subscription payment data, and the data appears when you click the pay button.
+- But when you press the payment button without entering any data, the message “data is missing” appears.
+- When you press the reset button, the current data is erased.
+- When you press the back button, you return to the Last interface.
